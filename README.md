@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝘐'𝘮 𝘎𝘩𝘶𝘭𝘢𝘮 𝘏𝘶𝘴𝘴𝘢𝘪𝘯! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝘐'𝘮 𝑀𝓊𝓈𝒶𝓌𝒾𝓇 𝐻𝓊𝓈𝓈𝒶𝒾𝓃! 
 *App Developer (Android / IOS)*
 <br /> 
 
@@ -17,12 +17,12 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://rajatech.site) for more details about me.
+- 💻 Visit my [Portfolio](https://musawir.dev) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hussaindevX&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=musawirdev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
   
 <h3 align="left">Work with me🔥</h3>
 <ul align="left">
-  <li><a href="https://www.fiverr.com/s/38okRXB">🔥Develop your android and IOS app within 7 days🙂</a></li>
+  <li><a href="https://www.fiverr.com/s/38okRXB">Develop your android and IOS app within 7 days 🔥</a></li>
 </ul>
 <br />
 <br />
@@ -59,9 +59,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussaindevX&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussaindevX&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaindevX&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=musawirdev&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musawirdev&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musawirdev&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
@@ -169,19 +169,19 @@
 <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/hussaindevX" target="_blank">
+<a href="https://x.com/musawirdev" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/hussaindevX" target="_blank">
+<a href="https://www.instagram.com/musawirdev" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/hussaindevX" target="_blank">
+<a href="https://www.githubcom/musawirdev" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/hussaindevX/" target="_blank">
+<a href="https://www.linkedin.com/in/musawirdev/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -189,10 +189,10 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://buymeacoffee.com/hussaindevx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://buymeacoffee.com/musawirdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-![snake gif](https://github.com/hussaindevX/hussaindevX/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/musawirdev/musawirdev/blob/output/github-snake-dark.svg)
 
 <!--Footer--> 
 <p align="center">
