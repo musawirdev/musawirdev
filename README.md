@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./quality_restoration_2025052318470786.jpg)
+![Banner Image](./quality_restoration_2025052318470786.jpg)
 
 <!--Night Owl image-->
 <div>
